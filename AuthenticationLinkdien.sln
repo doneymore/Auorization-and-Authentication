@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationLinkdien", "AuthenticationLinkdien\AuthenticationLinkdien.csproj", "{0F9DD255-76AE-46D5-994B-926AC75CFE2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F9DD255-76AE-46D5-994B-926AC75CFE2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9DD255-76AE-46D5-994B-926AC75CFE2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9DD255-76AE-46D5-994B-926AC75CFE2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9DD255-76AE-46D5-994B-926AC75CFE2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE09EA8E-75FE-48FD-B728-D2EBE4F8A519}
+	EndGlobalSection
+EndGlobal
